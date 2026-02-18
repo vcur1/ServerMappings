@@ -1,6 +1,7 @@
 {
     "id": "empiremc",
     "name": "EmpireMC Network",
+    "description": "EmpireMC Network is focused on bringing original gamemodes.",
     "store": "https://tienda.empiremc.cc/",
     "addresses": [
         "empiremc.cc"
@@ -22,6 +23,7 @@
         "PvP",
         "Fast Farm"
     ],
+    "primaryLanguage ": "es-EN",
     "socials": {
         "twitter": "empiremc_cc",
         "discord": "https://discord.gg/decJVdFEfH",
